@@ -16,7 +16,7 @@ The Sales Opportunity Performance Dashboard is an interactive Power BI report de
 
 > Add your dashboard screenshot here.
 
-![Dashboard](images/dashboard.png)
+![Dashboard](images/Sales-dashboard.png)
 
 ---
 
